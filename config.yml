@@ -1,0 +1,18 @@
+baseURL: https://jrasell.com/
+languageCode: en-us
+title: jrasell
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "James Rasell (coming soon)"
+    Content: >
+      Software engineer interested in distributed systems, gardening,
+      environmentalism, and trying not to be a dick.
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/jrasell"
+    - name: github
+      url: "https://github.com/jrasell"
+    - name: instagram
+      url: "https://www.instagram.com/jrasell"
